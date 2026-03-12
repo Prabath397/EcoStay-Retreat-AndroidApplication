@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_admin_dashboard"
+            android:title="Admin Dashboard"
+            android:icon="@drawable/ic_dashboard"/>
+        <item
+            android:id="@+id/nav_manage_rooms"
+            android:title="Manage Rooms"
+            android:icon="@drawable/ic_room"/>
+        <item
+            android:id="@+id/nav_manage_activities"
+            android:title="Manage Activities"
+            android:icon="@drawable/ic_activity"/>
+        <item
+            android:id="@+id/nav_all_bookings"
+            android:title="All Bookings"
+            android:icon="@drawable/ic_booking"/>
+        <item
+            android:id="@+id/nav_send_notification"
+            android:title="Send Notification"
+            android:icon="@drawable/ic_notification"/>
+        <item
+            android:id="@+id/nav_all_users"
+            android:title="All Users"
+            android:icon="@drawable/ic_profile"/>
+    </group>
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_logout"/>
+</menu>
