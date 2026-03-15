@@ -1,4 +1,4 @@
-# EcoStay Retreat 🌿
+# EcoStay Retreat Mobile Application 🌿
 
 An eco-friendly resort booking Android application that allows guests to explore sustainable accommodations, book eco-adventures, and manage their stay seamlessly.
 
@@ -124,5 +124,5 @@ This project is created for educational purposes as part of an academic assignme
 ## 👤 Author
 
 **Prabath Jayasuriya**  
-Mobile Application Development – CSE5011
+Mobile Application Development – CSE5011  
 **Academic Year:** 2026, Semester 3
