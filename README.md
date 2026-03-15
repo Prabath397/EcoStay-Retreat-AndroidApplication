@@ -48,6 +48,17 @@ An eco-friendly resort booking Android application that allows guests to explore
 
 ---
 
+## 📱 Screenshots
+
+| Login Page | Guest Home Page | Rooms Page |
+|-------------|-----------|----------------|
+| ![Login](screenshots/home.jpg) | ![Guest Home](screenshots/guest_home.jpg) | ![Rooms](screenshots/rooms.jpg) |
+
+| Activities Page | Notifications Page | Admin Dashboard Page |
+|-------------|-----------------|---------------|
+| ![Activities](screenshots/activities.jpg) | ![Notification](screenshots/notifications.jpg) | ![Admin Dashboard](screenshots/admin_dashboard.jpg) |
+---
+
 ## 🚀 Installation
 
 1. Clone the repository
