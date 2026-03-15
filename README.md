@@ -52,11 +52,11 @@ An eco-friendly resort booking Android application that allows guests to explore
 
 | Login Page | Guest Home Page | Rooms Page |
 |-------------|-----------|----------------|
-| ![Login](screenshots/home.jpg) | ![Guest Home](screenshots/guest_home.jpg) | ![Rooms](screenshots/rooms.jpg) |
+| ![Login](Screenshots/home.jpg) | ![Guest Home](Screenshots/guest_home.jpg) | ![Rooms](Screenshots/rooms.jpg) |
 
 | Activities Page | Notifications Page | Admin Dashboard Page |
 |-------------|-----------------|---------------|
-| ![Activities](screenshots/activities.jpg) | ![Notification](screenshots/notifications.jpg) | ![Admin Dashboard](screenshots/admin_dashboard.jpg) |
+| ![Activities](Screenshots/activities.jpg) | ![Notification](Screenshots/notifications.jpg) | ![Admin Dashboard](Screenshots/admin_dashboard.jpg) |
 ---
 
 ## 🚀 Installation
